@@ -1,3 +1,8 @@
+#Necesito ayuda con este codigo, estoy aprendiendo a programar. No puedo hacer que parezca el texto en el panel superior
+#si alguien lee esto y me puede ayudar se lo agradezco
+#saludos
+
+
 import flet as ft
 from config import COLOR_BARRA_SUPERIOR, COLOR_MENU_LATERAL, COLOR_CUERPO_PRINCIPAL, COLOR_MENU_CURSOR_ENCIMA
 import util.util_imagenes as util_img
