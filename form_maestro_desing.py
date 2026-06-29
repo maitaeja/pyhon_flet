@@ -1,5 +1,5 @@
-#Necesito ayuda con este codigo, estoy aprendiendo a programar. No puedo hacer que parezca el texto en el panel superior
-#si alguien lee esto y me puede ayudar se lo agradezco
+#Necesito ayuda con este codigo, estoy aprendiendo a programar. No puedo hacer que aparezca el texto en el panel superior
+#si alguien lee esto y por favor me puede ayudar se lo agradezco
 #saludos
 
 
